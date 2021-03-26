@@ -39,9 +39,9 @@ https://keras.io/api/applications/resnet/#resnet50-function
 In this step, I built a flask API endpoint with GUI that was hosted on a local webserver. The API endpoint takes in a request as image and returns a prediction.
 
 
+![alt text](https://github.com/rishabdhar12/blood-cell-images/blob/main/screenshots/1.jpg)
 
-
-
+![alt text](https://github.com/rishabdhar12/blood-cell-images/blob/main/screenshots/2.jpg)
 
 
 
